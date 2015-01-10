@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            
+title:            ChChow
 locale:           en_US
-url:              
+url:              http://chchow.me
 
 
 # Jekyll configuration

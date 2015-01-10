@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "A function of space and time."
-description: "Entertaining an obscure and abstract interpretation of life."
+excerpt: "Entertaining an obscure and abstract interpretation of life."
 date: 2014-08-11T14:59:46-04:00
 tags: [personal]
 ---
+
+## Existential Thinking
 
 I believe that everything boils down to being a function of space and time --- to be at the right place at the right moment.
 The exact details behind this supposed function is, of course, a mystery. Being a fan of science-fiction, I like to entertain

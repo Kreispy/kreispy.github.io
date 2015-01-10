@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MEAN.JS Demonstration"
-description: "Foray into the MEAN stack and general web development"
+title: "Trying out MEAN.JS"
+excerpt: "Exploring the MEAN stack and general web development"
 date: 2014-12-09T03:00:11-05:00
 modified: 2015-01-07
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Theme: Minimal Mistakes"
-description: "Presenting a sleeker personal website."
+excerpt: "Presenting a sleeker personal website."
 date: 2014-08-11T14:29:00-04:00
 tags: [personal]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Family First, Career Later"
-description: "Explaining my personal story and recent experiences."
+excerpt: "Explaining my personal story and recent experiences."
 date: 2014-05-11T14:59:46-04:00
 modified: 2014-08-11 15:29:29 -0400
 tags: [personal]

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            ChChow
+title:            !null
 locale:           en_US
-url:              http://chchow.me
+url:              
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Chris Chow
   avatar: bio-photo.png
-  bio: "Treading onwards."
+  bio: "Every mistake is a lesson."
   email: chchow3@gmail.com
   disqus-shortname: 
   twitter: Pigowmel
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: Kreispy
+  github: chrisdchow
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

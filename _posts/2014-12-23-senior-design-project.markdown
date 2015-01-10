@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Senior Design Project: Gesture Gym"
-description: "Sharing my final undergraduate project"
+excerpt: "Sharing my final undergraduate project"
 date: 2014-12-23T18:04:55-05:00
 ---
 

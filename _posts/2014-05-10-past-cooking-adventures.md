@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Past Cooking Adventures"
-description: "Pictures and captions of my previous kitchen creations."
+excerpt: "Pictures and captions of my previous kitchen creations."
 date: 2014-05-10T14:59:46-04:00
 modified: 2014-07-27 15:28:17 -0400
 category: [blog]

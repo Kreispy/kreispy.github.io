@@ -1,29 +1,29 @@
 ---
 layout: post
 title: "The Family Laundromat"
-description: "Lending my "
+excerpt: "Doing what must be done"
 date: 2014-08-17T22:25:19-04:00
 ---
 
 In my **Family First, Career Later** post I mentioned my family laundromat and how much of a *time investment* it has been. My past summers and semester breaks have been occupied by this familial obligation.
 
-My mom and her younger brother worked together to purchase this laundromat business. They recently partnered up with a local laundry services business to expand the laundromat beyond the standard self-service wash and dry. We now offer pick-up, delivery and dry cleaning (through another facility). My family is used to their Chinese restaurant business practices, so this new venture of proper financial documentation and all related paperwork has trickled down to me. Between my immediate family, this business partner, and all other involved parties, there is a lot that this business needs to stay afloat. 
+My mom and her younger brother worked together to purchase this laundromat business. They recently partnered up with a local laundry services business to expand the laundromat beyond the standard self-service wash and dry. They now offer pick-up, delivery and dry cleaning (through another facility). My family is used to working in Chinese restaurant, so this new venture accounting and finance related paperwork has trickled down to me. Between my immediate family, this business partner, and all other involved parties, there is a lot that this business needs to stay afloat. 
 
 ### Accomplishments
 -----
-For the past three months I worked on various tasks for this business. Here are the ones that I would like to note.
+For the past three months I worked on various tasks for this business. Here are the ones that I would like to mention.
 
-#### Advertisments
+1. Advertisments
 
-I created, printed and mailed oversized postcard advertisements for the business. I used Illustrator to create a simple advertisement and printed thousands of copies on Vistaprint. They were shipped through the Every Door Direct Mail service provided by the United States post office. This was the most price effective option; Vistaprint has frequent promotional offers and the USPS mailing rate is $0.17 per advertisement. 
+	I created, printed and mailed oversized postcard advertisements for the business. I used Illustrator to create a simple advertisement and printed thousands of copies on Vistaprint. They were shipped through the Every Door Direct Mail service provided by the United States post office. This was the most price effective option; Vistaprint has frequent promotional offers and the USPS mailing rate is $0.17 per advertisement. 
 
-#### Security
+2. Security
 
-I setup security cameras and remote monitoring for the laundromat premise. The software is somewhat outdated and is in dire need of some tender love and care.
+	I setup security cameras and remote monitoring for the laundromat premise. The software is somewhat outdated and is in dire need of some tender love and care.
 
-#### Accounting for Small Businesses
+3. Accounting for Small Businesses
 
-I setup Quickbooks Online to handle invoicing, financial documentation, and credit card payments.
+	I setup Quickbooks Online to handle invoicing, financial documentation, and credit card payments.
 
 ### Looking Forward
 

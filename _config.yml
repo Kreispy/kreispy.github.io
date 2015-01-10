@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Persevere
+title:            Chris Chow
 locale:           en_US
 url:              
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Chris Chow
+  name:
   avatar: bio-photo.png
   bio: "Every mistake is a lesson."
   email: chchow3@gmail.com

@@ -24,7 +24,6 @@ in this city for my all 22 years of my life.
 Documenting my notable experiences and adventures.
 
 # When
-
 The current time is 1:06 AM on May 9th, 2014.
 
 # Where

@@ -66,6 +66,7 @@ Each of these tasks can take a few hours to complete, especially if you run into
 
 # Section 4: Preemptive Development Advice
 *grep*:
+
 {% highlight bash %}
 # front-end content you want to edit, but unsure of file location: grep it
 # find any file dependencies in unfamiliar directories: grep it
@@ -75,12 +76,15 @@ grep -r "texthere" .
 {% endhighlight %}
 
 *spelling*:
+
 If your application passes the linter, but is not functioning, check your variable spelling.
 
 *incremental development*:
+
 Work on this project incrementally. Move on to the next section when you understood the current section. This sounds obvious, however it is definitely worth stating and emphasizing. A web application is not as complicated or daunting when you understand its components.
 
 *version control*:
+
 If you decide to create a web application or any non-trivial application without any version control, then you are a very very brave individual. 
 
 
@@ -475,7 +479,6 @@ module.exports = function(app) {
 
 };
 {% endhighlight %}
-
 
 f. Create a function to send a email: **core.server.controller.js**
 

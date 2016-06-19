@@ -1,12 +1,6 @@
 ---
 layout: post
 title: "Quotes about Minimalism"
-modified:
-categories: 
-excerpt: "Sharing how I think."
-tags: []
-image:
-  feature:
 date: 2015-01-10T18:55:18-05:00
 ---
 
@@ -22,4 +16,3 @@ Here are a few of my favorites:
 
 > Great acts are made up of small deeds. 
 -- Lao Tzu
-

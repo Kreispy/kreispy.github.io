@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Family Laundromat"
-excerpt: "Doing what must be done"
 date: 2014-08-17T22:25:19-04:00
 ---
 
@@ -9,7 +8,7 @@ In my **Family First, Career Later** post I mentioned my family laundromat and h
 
 My mom and her younger brother worked together to purchase this laundromat business. They recently partnered up with a local laundry services business to expand the laundromat beyond the standard self-service wash and dry. They now offer pick-up, delivery and dry cleaning (through another facility). My family is used to working in Chinese restaurant, so this new venture accounting and finance related paperwork has trickled down to me. Between my immediate family, this business partner, and all other involved parties, there is a lot that this business needs to stay afloat. 
 
-### Accomplishments
+# Accomplishments
 -----
 For the past three months I worked on various tasks for this business. Here are the ones that I would like to mention.
 
@@ -25,7 +24,7 @@ For the past three months I worked on various tasks for this business. Here are 
 
 	I setup Quickbooks Online to handle invoicing, financial documentation, and credit card payments.
 
-### Looking Forward
+# Looking Forward
 
 The greatest issue confronting this business is communication. My mom and uncle barely understand English, while the business partner is too occupied with daily operations. Being bilingual (Mandarin and English), young, tech-savvy, and compassionate coincidentally makes me capable of handling this and all related responsibilities. The early months and years of a growing business are very delicate and will dictate future success and failure. With this in mind, I understand why I am needed.
 

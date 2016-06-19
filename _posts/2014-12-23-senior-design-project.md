@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Senior Design Project: Gesture Gym"
-excerpt: "Sharing my final undergraduate project"
+title: "Senior Design Project"
 date: 2014-12-23T18:04:55-05:00
 ---
 
-Summary
+# Gesture Gym: my final undergraduate projects
 -----
 Gesture Gym is a therapeutic tablet application designed to complement traditional physical therapy.
 Traditional physical therapy is inconvenient, expensive, mundane and isolated. Furthermore, 
@@ -21,7 +20,7 @@ With continuous use, the data becomes more and more robust and informative to th
 The difficulty level adapts to the patient's recent progress in order to further facilitate improvement.
 
 
-Project Poster
+# Project Poster
 -----
 
 <figure>
@@ -29,7 +28,7 @@ Project Poster
 </figure>
 
 
-Full Project Report
+# Full Project Report
 -----
 
 If you would like more information, then please read the [full report](https://dl.dropboxusercontent.com/u/35563338/final_report_chow_datta_cates.pdf).

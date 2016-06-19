@@ -3,8 +3,6 @@ layout: post
 title: "Family First, Career Later"
 excerpt: "Explaining my personal story and recent experiences."
 date: 2014-05-11T14:59:46-04:00
-modified: 2014-08-11 15:29:29 -0400
-tags: [personal]
 ---
 
 My family is on the lower end of the socio-economic ladder. My mom, in the recent past,
@@ -24,8 +22,7 @@ Furthermore, any bill disputes, mail and any related paperwork was my responsibi
 Not to mention any of the house related paperwork. As a member of this small family, 
 I understood and acknowledged my duties and responsibilities.
 
-### Present Situation
-
+# Present Situation
 It is nearing the end of my four years at the University of Pennsylvania.
 Within less than two weeks, I will become the first in my family to
 graduate from college. Transitioning from high school to college was
@@ -67,4 +64,3 @@ I have been building my coding portfolio in the midst of problem
 sets, projects, exams, and family responsibilities. I believe that I 
 have more than demonstrated my competence and passion for
 computer science. 
-

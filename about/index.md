@@ -2,13 +2,13 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+My name is Chris Chow and I am currently a Software Engineer at [Conductor, Inc](http://www.conductor.com/).
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+On May 19, 2014 I graduated from the University of Pennsylvania where I majored in Computer Science.
+My resume is available to be viewed [here](https://dl.dropboxusercontent.com/u/35563338/christopher_chow_resume.pdf).
+I moved to New York city in May 2015 have lived here since then.
 
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
+I am a second generation Chinese-American, born and raised by an extremely caring, hardworking and obstinate single mother. 
+Growing up, I learned how to do more with less and by extension how to stretch every dollar.
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+This website was made possible thanks to GitHub pages and free open-sourced themes at [JekyllThemes](http://jekyllthemes.org/).

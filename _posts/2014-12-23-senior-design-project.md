@@ -8,7 +8,7 @@ date: 2014-12-23T18:04:55-05:00
 -----
 Gesture Gym is a therapeutic tablet application designed to complement traditional physical therapy.
 Traditional physical therapy is inconvenient, expensive, mundane and isolated. Furthermore, 
-there is a general lack of quantative data on the issue; doctors collect very little numerical data on
+there is a general lack of quantitative data on the issue; doctors collect very little numerical data on
 the therapy they conduct. 
 
 Inspired by popular rhythm game [osu!](http://en.wikipedia.org/wiki/Osu!), Gesture Gym is a project

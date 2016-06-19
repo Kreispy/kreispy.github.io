@@ -12,9 +12,9 @@ My mom and her younger brother worked together to purchase this laundromat busin
 -----
 For the past three months I worked on various tasks for this business. Here are the ones that I would like to mention.
 
-1. Advertisments
+1. Advertisements
 
-	I created, printed and mailed oversized postcard advertisements for the business. I used Illustrator to create a simple advertisement and printed thousands of copies on Vistaprint. They were shipped through the Every Door Direct Mail service provided by the United States post office. This was the most price effective option; Vistaprint has frequent promotional offers and the USPS mailing rate is $0.17 per advertisement. 
+	I created, printed and mailed jumbo postcard advertisements for the business. I used Illustrator to create a simple advertisement and printed thousands of copies on Vistaprint. They were shipped through the Every Door Direct Mail service provided by the United States post office. This was the most price effective option; Vistaprint has frequent promotional offers and the USPS mailing rate is $0.17 per advertisement. 
 
 2. Security
 

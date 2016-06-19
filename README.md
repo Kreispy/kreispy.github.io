@@ -1,2 +1,2 @@
-# chrisdchow.github.io
-Personal website using the Minimal Mistakes theme.
+# chrisdchow.github.io / chchow.me
+Personal website using a theme by getmicah.github.io under MIT License.

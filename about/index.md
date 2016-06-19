@@ -1,19 +1,14 @@
 ---
-layout: page
-title: About Me
-tags: [about]
-modified: 2014-01-10T20:53:07.573882-04:00
-
+layout: about
 ---
 
-My name is Christopher Chow, but most people call me Chris.
+Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
 
-On May 19, 2014 I graduated from the University of Pennsylvania where I majored in Computer Science.
-My resume is available to be viewed [here](https://dl.dropboxusercontent.com/u/35563338/christopher_chow_resume.pdf).
+# What do you do?
+I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
 
-I am a second generation Chinese-American, born and raised by an extremely caring, hardworking and obstinate single mother. 
-Growing up, I learned how to do more with less and by extension how to stretch every dollar.
-During my freshman year at Penn, I searched for a major that best demonstrated these values of frugal effectiveness.
-The field of computer science, in its vast breadth and immense depth, strongly reflected my personal values. 
+# Who are your favorite artists?
+Currently I'm listening to a lot of James Blake and Kaytranada.
 
-This website was made possible thanks to GitHub pages and the Minimal Mistakes jekyll theme.
+# What programming languages do you use?
+When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.

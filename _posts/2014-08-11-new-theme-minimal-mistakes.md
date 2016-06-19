@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "New Theme: Minimal Mistakes"
-excerpt: "Presenting a sleeker personal website."
 date: 2014-08-11T14:29:00-04:00
-tags: [personal]
 ---
 
 I have spent the past two weeks revamping my theme. I searched for the subjectively best open sourced jekyll-based theme out there.
@@ -12,4 +10,3 @@ what I desired in a personal website. The creator also provides sufficient docum
 to the theme. For example, I added the email button to the column with the rest of the social media buttons. The version of this theme 
 that I cloned did not display the email address. After reading through the detailed documentation and commit messages on the project repository, 
 I managed to get the button to display.
-

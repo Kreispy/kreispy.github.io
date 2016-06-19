@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Full-Stack Adventure: Trying out MEAN.JS"
-excerpt: "Exploring the MEAN stack and general web development"
+title: "Full-Stack Adventure"
 date: 2014-12-09T03:00:11-05:00
-modified: 2015-01-07
 ---
 
-## Section 1: Practical Motivation
-
+# Section 1: Practical Motivation
 It has been a while since my last post. For the past few months, I have been busy helping out the family business. 
 On a high level, I have been serving as a consultant for the business handling everything from finances, marketing, communication,
 technical support and web development.
@@ -18,8 +15,8 @@ I wrote out this guide to document the experience and to perhaps help other curi
 
 You can view the finished product [here](http://http://www.usmommy.com/#!/). There is nothing particularly innovative about this web application; it is a simple and modern version of the client's outdated static web page with some dynamic components. I tried to update the text content to be more succinct and concise, however the client insisted on having the content you see now.
 
-## Section 2: Technology Stack
 
+# Section 2: Technology Stack
 + [VirtualBox](https://www.virtualbox.org/) to host a guest Linux OS on my Windows 8 laptop.
   *  I highly recommend installing [Guest Additions](https://www.virtualbox.org/manual/ch04.html) and working in seamless mode.
   *  Guest Additions allows for conveniences such as mouse pointer integration, shared folders and shared clipboard between host and guest.  
@@ -56,8 +53,8 @@ You can view the finished product [here](http://http://www.usmommy.com/#!/). The
   * Node default listens to port 3000, nginx proxies requests from port 80 to the underlying port 3000.
   <br>
 
-## Section 3: Getting Started
 
+# Section 3: Getting Started
 Each of these tasks can take a few hours to complete, especially if you run into any installation or setup issues. Please take your time and make sure each step is completed before moving on. Google and StackOverflow are great resources for troubleshooting and debugging! The following steps assume the host machine runs Windows. If you are already using a Linux-ish operating system, then please skip to step 4.
 
 1. Install VirtualBox, please refer to the [user manual](http://www.virtualbox.org/manual/) for assistance.
@@ -66,10 +63,9 @@ Each of these tasks can take a few hours to complete, especially if you run into
 4. Install MEAN.JS and its [prerequisites](http://meanjs.org/docs.html#getting-started): Node.js, npm, MongoDB, bower, grunt.
 5. [Generate](http://meanjs.org/generator.html) your project directory, which initializes with a sample MEAN stack application.
 
-## Section 4: Preemptive Development Advice
 
-### Grep (globally search a regular expression and print)
-
+# Section 4: Preemptive Development Advice
+*grep*:
 {% highlight bash %}
 # front-end content you want to edit, but unsure of file location: grep it
 # find any file dependencies in unfamiliar directories: grep it
@@ -78,28 +74,24 @@ grep -r "texthere" .
 # execute in root project directory
 {% endhighlight %}
 
-### Spelling
-
+*spelling*:
 If your application passes the linter, but is not functioning, check your variable spelling.
 
-### Incremental Development
-
+*incremental development*:
 Work on this project incrementally. Move on to the next section when you understood the current section. This sounds obvious, however it is definitely worth stating and emphasizing. A web application is not as complicated or daunting when you understand its components.
 
-### Version Control
-
+*version control*:
 If you decide to create a web application or any non-trivial application without any version control, then you are a very very brave individual. 
 
-## Section 5: The Full-Stack Nitty Gritty
 
+# Section 5: The Full-Stack Nitty Gritty
 I studied computer science, however that does not mean I formally learned web development. Over the the course of my undergraduate years I did study the fundamental components that comprise basic web development: programming languages, computer architecture, databases, operating systems, networks and security. With that stated, a working knowledge of the Linux environment, HTML and Javascript is necessary for the upcoming sub-sections.
 
 **Halt!** Take your time working through this. Take breaks to digest and understand what is going on. 
 {: .notice}
 
 
-### 5A: Setting Up Local Development Environment
-
+# 5A: Setting Up Local Development Environment
 Before doing anything, you must start the **mongod** service if it is not already started.
 You can check by running any of the following in your Terminal:
 
@@ -191,8 +183,7 @@ http://localhost:3000/
 Spend some time familiarizing yourself with the sample application and please take note of the different *modules* in the application. At the very least create an account, log in, create articles on your account and log out.
 
 
-### 5B: Front-end, the Web UI Layer
-
+# 5B: Front-end, the Web UI Layer
 From exploring the sample application, you should have noticed the *core* components of the website like the header, the *user* components like the log-in forms, and the *articles* components for interacting with user articles. The **user interface** of these components are organized by isolated modules. All front-end related files are in **/.../public** and as you can see below:
 
 {% highlight html %}
@@ -230,8 +221,7 @@ To achieve more dynamic front-end content, you have AngularJS. If you are unfami
 **Halt!** Take a break to rest your body and mind. Get up from your chair and stretch.
 {: .notice}
 
-### 5C: Back-end, the Node.js Server
-
+# 5C: Back-end, the Node.js Server
 Node.js is the server for this web application. In order to create an account, log-in and log-out, the user interacts with the server from their client. Creating, reading, updating and deleting articles also requires interacting with the server. Web application users should be able to log-in into their accounts and interact with their articles from any computer; no data is stored locally. All server code is located in **/.../app**.
 	
 The MEAN.JS stack uses Express, which is a "minimal and flexible" Node.js web application framework. It, like most Node.js libraries, can be installed with npm. Express simplifies the process of writing server code by abstracting away the tedious and complex parts. For more information, read the super informative post by [Evan Hahn](http://evanhahn.com/understanding-express/). It really helps to understand what Express does as many of the sample and toy Node.js applications I found online heavily used it.
@@ -330,8 +320,7 @@ I used the articles and user controller code as a basis to write my own logic. W
 {: .notice}
 
 
-### 5D: Integration
-
+# 5D: Integration
 Integrating the front-end and back-end together produces a dynamic web application. Typically, the client interacts with a server by sending a http request and the server sends a http response. In a MEAN stack, Angular sends http **req**uests to the server and waits for a **res**ponse. Express **routes** the request to the proper **controller** to handle the request.
 
 <figure>
@@ -343,7 +332,7 @@ The following section has a concrete example of integrating the front-end and ba
 
 
 
-## Section 6: Sample Contact Page with nodemailer 0.7.1
+# Section 6: Sample Contact Page with nodemailer 0.7.1
 
 a. Create a contact page: **contact.client.view.html**
 
@@ -547,12 +536,10 @@ g. Update (downgrade) the version of nodemailer in **package.json** to 0.7.1.
 
 h. Test this locally by going to localhost and try using the contact form.
 
-## Section 7: Deployment with Digital Ocean
-
+# Section 7: Deployment with Digital Ocean
 Once you have completed testing locally, then it is time to deploy!
 
-### 7A: Hosting Setup on DigitalOcean
-
+# 7A: Hosting Setup on DigitalOcean
 a. Purchase domain (from namecheap).
 
 b. Update "Domain Name Server Setup" and specify custom DNS servers.
@@ -607,8 +594,7 @@ $ [sudo] npm install forever -g
 $ forever start server.js
 {% endhighlight %}
 
-### 7C: Reverse Proxy with NGINX
-
+# 7C: Reverse Proxy with NGINX
 The MEAN.JS application listens to port 3000 by default. When people access **yourdomain.com** they have to append the port making it **yourdomain.com:3000**, which is neither convenient or pleasant looking. By not specifying a port, **yourdomain.com** is actually the same as **yourdomain.com:80**. Whenever the user accesses the web application at **yourdomain.com**, their interactions should be passed from port 80 to port 3000. nginx, an HTTP and reverse proxy server, is exactly what we need to achieve that goal.
 
 {% highlight bash %}
@@ -668,8 +654,7 @@ $ /etc/init.d/nginx restart
 
 Now you should be able to visit **yourdomain.com** from anywhere!
 
-## Section 8: Postmortem
-
+# Section 8: Postmortem
 This project was my first official "modern" web application. I previously made a Java servlet application, [YelpMeOut!](https://github.com/Kreispy/YelpMeOut), for a database project (CIS330 with Susan Davidson), but the web components of that project were cursory and not emphasized. This modern web application was initially overwhelming, confusing and difficult. At that point I just installed MEAN.JS and was not sure where or how to begin; I was aimlessly reading the sample project and trying to make sense of it. After getting my bearings, I spent time studying each individual layer of the MEAN stack, which was rather time consuming but overall straightforward. I thought getting each layer to interact with each other was going to be the greatest difficultly, however it was not. Using a full-stack framework allowed me to easily adopt good folder structures and proper routing.
 
 [Recently](https://news.ycombinator.com/item?id=8669557) the core members behind the [Node.js](http://nodejs.org/) framework forked and created [io.js](https://github.com/iojs/io.js). These core members were unhappy with Joyent's overall management of the Node.js project. This is germane because MEAN.JS is a fork of the more popular MEAN.IO. You can read more about that [here](http://stackoverflow.com/questions/23199392/difference-between-mean-js-and-mean-io). In retrospect, I might have been able to complete this application sooner if I went with MEAN.IO. MEAN.IO, being relatively older and more well known, is more documented and supported (currently) than MEAN.JS. 

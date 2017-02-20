@@ -1,2 +1,2 @@
-# chrisdchow.github.io / chchow.me
+# chrisdchow.github.io / chrisdchow.com
 Personal website using a theme by getmicah.github.io under MIT License.

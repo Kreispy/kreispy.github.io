@@ -2,13 +2,6 @@
 layout: about
 ---
 
-My name is Chris Chow and I am currently a Software Engineer at [Conductor, Inc](http://www.conductor.com/).
+My name is Chris Chow and I am currently a Software Engineer at [VTS](https://www.vts.com/), a commericial real estate tech company in New York City, working with Rails and Angular. Previously I worked at [Hightower](https://www.gethightower.com/) before the company [merged with VTS](https://www.vts.com/in-the-news/vts-and-hightower-announce-strategic-merger). Many many moons ago, on May 19, 2014, I graduated from the University of Pennsylvania where I majored in Computer Science.
 
-On May 19, 2014 I graduated from the University of Pennsylvania where I majored in Computer Science.
-My resume is available to be viewed [here](https://dl.dropboxusercontent.com/u/35563338/christopher_chow_resume.pdf).
-I moved to New York city in May 2015 have lived here since then.
-
-I am a second generation Chinese-American, born and raised by an extremely caring, hardworking and obstinate single mother. 
-Growing up, I learned how to do more with less and by extension how to stretch every dollar.
-
-This website was made possible thanks to GitHub pages and free open-sourced themes at [JekyllThemes](http://jekyllthemes.org/).
+Practicality rooted in altruism is my approach to software; I am motivated to solve (real) customer problem by developing functional and ergonomic software. I strive to be an empathetic, impactful, and transparent engineer.

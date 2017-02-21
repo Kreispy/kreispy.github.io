@@ -1,1 +1,1 @@
-# chrisdchow.github.io / chrisdchow.com
+# chrisdchow.com
